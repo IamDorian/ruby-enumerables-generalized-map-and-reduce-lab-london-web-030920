@@ -7,3 +7,5 @@ def map(array)
   end
   arr 
 end
+
+
